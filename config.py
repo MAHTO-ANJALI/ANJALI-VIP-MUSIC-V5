@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","lXl_DEVIL_lXl")
+OWNER_USERNAME = getenv("OWNER_USERNAME","AnjaliOwnerBot")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "l_MUSIC_lXl_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "AnjaliMusicFiveBot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "QUEEN")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001936827588))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001970031336))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6515963704))
+OWNER_ID = int(getenv("OWNER_ID", 6260080241))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/KING0712/QUEEN_MUSIC",
+    "https://github.com/MAHTO-ANJALI/Anjali-Music-Bot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_STAYLISH_ll_DPZ_l")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/l_RED_ll_ZONE_l")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AnjalixSupportxGroup")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ANJALIxWORLD")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org//file/6498f54284a4dcd3b4eb9.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/4666f33d82fa43338ab71.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org//file/5be677d49aa2e5c13cf75.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/8c8b21edb967f42f4fc3a.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/183c99e844beea9b2ee12.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/4666f33d82fa43338ab71.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/9b4b059f9275da973852f.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/5b236de7cb8f7d7e7b81c.jpg"
+STREAM_IMG_URL = "https://te.legra.ph/file/a4b4e0f0966db2bd744fa.jpg"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/e4a87f829cfa4634f8ca1.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/4b394adb26a12344e28de.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/183c99e844beea9b2ee12.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/22cc7edbd18f7893a0565.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/68951be447d8a16eabc00.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
