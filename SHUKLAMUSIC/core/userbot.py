@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("l_STAYLISH_ll_DPZ_l")
-                await self.one.join_chat("l_RED_ll_ZONE_l")
+                await self.five.join_chat("AnjalixSupportxGroup")
+                await self.one.join_chat("ANJALIxWORLD")
             except:
                 pass
             assistants.append(5)
