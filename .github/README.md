@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─「 ˹𝐐ᴜᴇᴇɴ 𝗢𝗙𝗙 𝐌ᴜsɪᴄ˼ ♪ 」─
+    ──「 ˹ᴧɴᴊᴧʟɪ˼ ✘ ˹ᴍᴜsɪᴄ˼ 」──
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐋𝐎𝐕𝐄𝐋𝐘+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗗𝗘𝗩𝗜𝗟+𝗢𝗣+😈)](https://github.com/KING0712/QUEEN_MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐀𝐍𝐉𝐀𝐋𝐈+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗠𝗔𝗛𝗧𝗢+𝗔𝗡𝗝𝗔𝗟𝗜+😍)](https://github.com/MAHTO-ANJALI/Anjali-Music-Bot)
 
 
 
@@ -26,4 +26,4 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KING0712/QUEEN_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/Anjali-Music-Bot"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
